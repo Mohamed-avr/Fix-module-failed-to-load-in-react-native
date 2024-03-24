@@ -17,8 +17,7 @@ package.json
 
 ## Other ways 
 This approach isn't the sole solution, there are many solutions to fix this problem but this is the easiest one
-check also [this solution](https://stackoverflow.com/questions/64167281/a-module-failed-to-load-due-to-an-error-and-appregistry-registercomponent-wasn/78216409#78216409)  also \
-[this solution](https://stackoverflow.com/questions/77971299/react-native-a-module-failed-to-load-due-to-an-error-and-appregistry-registerc) from stackoverflow 
+check also [this solution](https://stackoverflow.com/questions/64167281/a-module-failed-to-load-due-to-an-error-and-appregistry-registercomponent-wasn/78216409#78216409)  also check [this solution](https://stackoverflow.com/questions/77971299/react-native-a-module-failed-to-load-due-to-an-error-and-appregistry-registerc) from stackoverflow 
 
 I hope this worked for you! 
 
